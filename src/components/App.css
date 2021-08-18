@@ -1,0 +1,42 @@
+/* Styles go here */
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+
+.token{
+    border-radius: 50%;
+    height: 125px;
+    width: 125px;
+    display: inline-block;
+}
+.tokenContainer{
+    width: 100%;
+}
+.vector{
+    height: 400px;
+    width: 400px;
+}
+.form{
+    width: 45%;
+    margin: 0 auto;
+    margin-top:1em;
+}
+.mint{
+    margin-top: 1em;
+}
+
+.caro{
+    width: 25%;
+    height: 15%;
+    margin: 0 auto;
+    padding: 2em;
+}
+
+.fancyText{
+    font-family: 'Caveat', cursive;
+}
+.fancyBigText{
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+   
+}
